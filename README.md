@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lakshay bansal
-- 📠 Persuing B.Tech from Galgotias University In CSE
+- 📠 Persuing B.Tech In CSE from Galgotias University
 - 👀 I’m interested in Web devlopment
 - 🌱 I’m currently learning Reactjs
 - 📫 You can reach me on Lakshay0132@gmail.com
